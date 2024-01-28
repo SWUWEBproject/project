@@ -31,6 +31,7 @@ app.get("/board.ejs", function(req, res) {
 
 })
 
+
 app.listen(3000, function() {
   console.log("실행중...");
 });
